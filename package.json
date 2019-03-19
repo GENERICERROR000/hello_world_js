@@ -3,6 +3,7 @@
     "description": "hello, world",
     "author": "your name here :-)",
     "version": "0.0.1",
+    "esversion": 6,
     "devDependencies": {
         "jshint": "^2.10.2"
     },

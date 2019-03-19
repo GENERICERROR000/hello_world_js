@@ -1,5 +1,4 @@
 # sudo: required
 language: node_js
-esversion: 6
 node_js:
     - "node"
